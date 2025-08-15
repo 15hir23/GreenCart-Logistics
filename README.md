@@ -31,7 +31,7 @@ GreenCart Logistics streamlines logistics operations with features including:
 ### Backend Setup
 
 ```bash
-git clone https://github.com/khushi747/greencart-logistics.git
+git clone (https://github.com/15hir23/GreenCart-Logistics)
 cd greencart-logistics/backend
 npm install
 # Configure .env file (see Environment Variables)
